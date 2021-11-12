@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lcrystallc
+- 👋 Hi, I’m @liuchen
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Meteorology
 - 💞️ I’m looking to collaborate on ...
